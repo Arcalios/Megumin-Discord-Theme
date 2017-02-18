@@ -1,4 +1,4 @@
-{} 
+//META{"name":"Red_n_Black","description":"Just a red and black theme with a hint of anime.","author":"CreamCheese (C.C.)","version":"1.0v"}*//{} 
 
 /* Backgrounds */
 
@@ -9,12 +9,15 @@
     background-position: center !important;
 }
 .bda-backdrop {
-    background: url("https://i.imgur.com/NUhSyNd.jpg")!important;
+    background: url("https://i.imgur.com/NUhSyNd.jpg");
     background-size: cover!important;
 }
 #pubs-container:before {
 	background: url("https://i.imgur.com/NUhSyNd.jpg")!important;
     background-size: cover!important;
+}
+.layers { 
+    background: transparent !important; 
 }
 
 /* Main Chat */
@@ -47,6 +50,9 @@
 }
 .theme-dark .message-group .comment .markup .mention:hover {
     background-color: rgba(0, 0, 0, 0.31);
+}
+.theme-dark .message-group .comment .message-send-failed .markup {
+	color: rgb(240, 71, 71);
 }
 .chat .welcome-message h1 {
     color: #9f0000;
@@ -709,6 +715,9 @@ a:link {
     background-size: 128px 128px;
     border-radius: 10%;
 }
+.avatar-profile .status {
+    border: none;
+}
 #user-profile-modal header {
     background-image: none;
     background-color: #9f0000;
@@ -719,24 +728,11 @@ a:link {
 #user-profile-modal .avatar-profile {
     border: 6px solid #9f0000 !important;
 }
-#user-profile-modal .avatar-profile .status {
-    border: 1.4px solid rgba(255, 255, 255, 0.5);
-    bottom: 117px;
-    right: -35px;
-}
 #user-profile-modal .avatar-wrapper {
     background-color: transparent;
 }
 #user-profile-modal .header .activity {
     margin-top: 30px;
-}
-.avatar-profile .status {
-    width: 14px;
-    height: 14px;
-}
-#user-profile-modal .header .discord-tag {
-    position: absolute;
-    top: 40px;
 }
 #user-profile-modal .actions .btn.add-friend:hover {
     background: #6f0000;
