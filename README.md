@@ -1,1 +1,1 @@
-# CC-Themes-Copy
+# Megumin Discord Theme
