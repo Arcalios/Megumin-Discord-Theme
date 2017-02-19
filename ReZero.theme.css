@@ -412,41 +412,41 @@ a:link {
     background-image: url(https://i.imgur.com/Crxj2nR.png);
 }
 .account .btn-deafen:after {
-    background-image: url(http://i.imgur.com/MntkjQv.png);
+    background-image: url("http://i.imgur.com/MntkjQv.png"); /* http://i.imgur.com/MntkjQv.png */
     opacity: 0.8;
     background-size: 75%;
 }
 .account .btn-deafen:hover:after {
-    background-image: url(https://i.imgur.com/Crxj2nR.png);
+    background-image: url("https://i.imgur.com/Crxj2nR.png");
     opacity: 1;
 }
 .account .btn-deafen.disabled:after {
-    background-image: url(http://i.imgur.com/UJbM1rL.png);
+    background-image: url("http://i.imgur.com/UJbM1rL.png");
 }
 .account .btn-deafen.disabled:hover:after {
-    background-image: url(http://i.imgur.com/UJbM1rL.png);
+    background-image: url("http://i.imgur.com/UJbM1rL.png");
 }
 .account .btn-settings:after {
-    background-image: url(http://i.imgur.com/Jk9BHJH.png);
+    background-image: url("http://i.imgur.com/Jk9BHJH.png");
     opacity: .8;
     background-size: 80%;
 }
 .account .btn-settings:hover:after {
-    background-image: url(https://i.imgur.com/tmJnYHc.png);
+    background-image: url("https://i.imgur.com/tmJnYHc.png");
 }
 .account .btn-mute:after {
-    background-image: url(http://i.imgur.com/2e90hNf.png);
+    background-image: url("http://i.imgur.com/2e90hNf.png");
     opacity: .8;
     background-size: 80%;
 }
 .account .btn-mute:hover:after {
-    background-image: url(https://i.imgur.com/k9gSksn.png);
+    background-image: url("https://i.imgur.com/k9gSksn.png");
 }
 .account .btn-mute.disabled:after {
-    background-image: url(http://i.imgur.com/DZia3yL.png);
+    background-image: url("http://i.imgur.com/DZia3yL.png");
 }
 .account .btn-mute.disabled:hover:after {
-    background-image: url(https://i.imgur.com/iOsaRAQ.png);
+    background-image: url("https://i.imgur.com/iOsaRAQ.png");
 }
 .account .status {
     border: 2px solid rgba(0, 0, 0, 1);
