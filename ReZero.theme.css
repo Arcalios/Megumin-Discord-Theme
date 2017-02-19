@@ -1,12 +1,12 @@
 {} /* Background */
 .app {
-    background-image: url("http://i.imgur.com/HLntbNj.jpg");
+    background-image: url("https://i.imgur.com/HLntbNj.jpg"); /* http://i.imgur.com/HLntbNj.jpg */
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("https://i.ytimg.com/vi/juAAC5A8xBQ/maxresdefault.jpg");
+    background: url("https://i.imgur.com/HLntbNj.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -26,7 +26,7 @@
     color: #FFF;
 }
 .chat .content {
-    box-shadow: inset 10px 0px 5px -6px rgb(121, 110, 154);
+    box-shadow: inset 10px 0px 5px -6px rgb(154, 110, 110);
 }
 .chat .divider>span {
     color: #F1F1F1;
@@ -173,7 +173,7 @@
     font-weight: 500;
 }
 a:link {
-    color: #ff9090;
+    color: #ffbaba;
 }
 .markdown-modal h2, 
 .markdown-modal strong {
@@ -229,7 +229,7 @@ a:link {
     box-shadow: 0 0 1px #ff8282,0 1px 4px #ff9090;
 }
 .theme-dark .themed-popout .header {
-    background-color: rgba(226, 134, 134, 0.9);
+    background-color: rgba(191, 112, 112, 0.9);
     box-shadow: 0 2px 3px 0 rgba(158, 73, 73, 0.9);
 }
 .theme-dark .messages-popout-wrap .messages-popout .message-group {
@@ -331,7 +331,7 @@ a:link {
 }
 .guilds-add {
     color: transparent !important;
-    background-image: url("http://i.imgur.com/KoHh9WF.png") !important;
+    background-image: url("https://i.imgur.com/KoHh9WF.png") !important;
     background-size: 45px 45px !important;
     background-repeat: no-repeat !important;
     background-position: 2px 2px !important;
@@ -409,10 +409,10 @@ a:link {
     border-left: none;
 }
 .account .btn-deafen:hover:after {
-    background-image: url(https://i.imgur.com/Crxj2nR.png);
+    background-image: url("https://i.imgur.com/Crxj2nR.png");
 }
 .account .btn-deafen:after {
-    background-image: url("http://i.imgur.com/MntkjQv.png"); /* http://i.imgur.com/MntkjQv.png */
+    background-image: url("https://i.imgur.com/MntkjQv.png"); /* http://i.imgur.com/MntkjQv.png */
     opacity: 0.8;
     background-size: 75%;
 }
@@ -421,13 +421,13 @@ a:link {
     opacity: 1;
 }
 .account .btn-deafen.disabled:after {
-    background-image: url("http://i.imgur.com/UJbM1rL.png");
+    background-image: url("https://i.imgur.com/UJbM1rL.png");
 }
 .account .btn-deafen.disabled:hover:after {
-    background-image: url("http://i.imgur.com/UJbM1rL.png");
+    background-image: url("https://i.imgur.com/UJbM1rL.png");
 }
 .account .btn-settings:after {
-    background-image: url("http://i.imgur.com/Jk9BHJH.png");
+    background-image: url("https://i.imgur.com/Jk9BHJH.png");
     opacity: .8;
     background-size: 80%;
 }
@@ -435,7 +435,7 @@ a:link {
     background-image: url("https://i.imgur.com/tmJnYHc.png");
 }
 .account .btn-mute:after {
-    background-image: url("http://i.imgur.com/2e90hNf.png");
+    background-image: url("https://i.imgur.com/2e90hNf.png"); /* http://i.imgur.com/2e90hNf.png */
     opacity: .8;
     background-size: 80%;
 }
@@ -443,7 +443,7 @@ a:link {
     background-image: url("https://i.imgur.com/k9gSksn.png");
 }
 .account .btn-mute.disabled:after {
-    background-image: url("http://i.imgur.com/DZia3yL.png");
+    background-image: url("https://i.imgur.com/DZia3yL.png");
 }
 .account .btn-mute.disabled:hover:after {
     background-image: url("https://i.imgur.com/iOsaRAQ.png");
@@ -452,12 +452,12 @@ a:link {
     border: 2px solid rgba(0, 0, 0, 1);
 }
 .guild-channels .channel-voice-states li .icon-muted {
-    background-image: url(http://i.imgur.com/DZia3yL.png);
+    background-image: url("https://i.imgur.com/DZia3yL.png");
     background-size: 120%;
     opacity: 0.7 !important;
 }
 .guild-channels .channel-voice-states li .icon-deafened {
-    background-image: url(http://i.imgur.com/UJbM1rL.png);
+    background-image: url("https://i.imgur.com/UJbM1rL.png");
     background-size: 120%;
     opacity: 0.7 !important;
 }
@@ -542,21 +542,21 @@ a:link {
     opacity: 1;
 }
 #voice-connection .btn-info:after {
-    background-image: url(https://a.pomf.cat/hwtfeh.png);
+    background-image: url("https://i.imgur.com/ooMnylq.png");
     opacity: 1;
     background-size: 80%;
 }
 #voice-connection .btn-disconnect:after {
-    background-image: url(https://a.pomf.cat/dfngik.png);
+    background-image: url("https://i.imgur.com/VoOQwnJ.png");
     opacity: 1;
     background-size: 80%;
 }
 #voice-connection .btn-info:hover:after {
-    background-image: url(https://i.imgur.com/7PlilIx.png);
+    background-image: url("https://i.imgur.com/7PlilIx.png");
     opacity: 1;
 }
 #voice-connection .btn-disconnect:hover:after {
-    background-image: url(https://i.imgur.com/LAyMjfz.png);
+    background-image: url("https://i.imgur.com/LAyMjfz.png");
     opacity: 1;
 }
 /* Public Button */
@@ -649,19 +649,19 @@ a:link {
 }
 @-moz-keyframes color_change {
     from {border-color: #535559;}
-    to {border-color: Lavender;}
+    to {border-color: LightPink;}
 }
 @-ms-keyframes color_change {
     from {border-color: #535559;}
-    to {border-color: Lavender;}
+    to {border-color: LightPink;}
 }
 @-o-keyframes color_change {
     from {border-color: #535559;}
-    to {border-color: Lavender;}
+    to {border-color: LightPink;}
 }
 @keyframes color_change {
     from {border-color: #535559;}
-    to {border-color: Lavender;}
+    to {border-color: LightPink;}
 }
 
 /* Profile */
@@ -691,7 +691,7 @@ a:link {
     display: box;
     display: flex;
     padding: 14px 20px;
-    background-color: rgba(139, 139, 230, 0.74)!important;
+    background-color: rgba(230, 139, 139, 0.74)!important;
 }
 #user-profile-modal footer .btn.add-friend {
     background: #ff9090;
@@ -845,7 +845,7 @@ a:link {
     background-color: rgb(156, 92, 92);
 }
 .popout section {
-    background-color: hsla(245, 46%, 63%, 0.78);
+    background-color: hsla(0, 46%, 63%, 0.78);
 }
 .add-friend-popout header input {
     border: 1px solid #ff9090;
@@ -913,7 +913,7 @@ a:link {
     border: 1px solid #ff9090;
 }
 .user-popout .header {
-    background: #e48888 url(http://i.imgur.com/M5IJKND.png);
+    background: #e48888 url("https://i.imgur.com/M5IJKND.png");
     background-size: 138%;
     background-repeat: no-repeat;
     background-position-y: 99%;
@@ -1307,7 +1307,7 @@ a:link {
 .guild-settings-modal-integrations .guild-settings-modal-integrations-header {
     color: #f9e5e5;
     border-bottom: 1px solid #ff9090;
-    box-shadow: 0 2px 0 hsla(200, 9%, 93%, 0);
+    box-shadow: 0 2px 0 hsla(0, 9%, 93%, 0);
 }
 .guild-settings-modal-members .guild-settings-modal-members-footer,
 .guild-settings-modal-members .guild-settings-modal-list .member+.member {
@@ -1348,7 +1348,7 @@ a:link {
     color: #ff9090;
 }
 .guild-header ul.treatment-1 .icon.icon-instant-invite {
-    background-image: url(https://a.pomf.cat/blqqea.png);
+    background-image: url("https://i.imgur.com/PkiQVSl.png");
     background-size: 100%;
 }
 .guild-header ul.treatment-1 .line {
@@ -1373,7 +1373,7 @@ a:link {
 .guilds-wrapper .guilds .friends-icon {
     width: 50px;
     height: 50px;
-    background-image: url(http://i.imgur.com/GiFiuoq.png);
+    background-image: url("https://i.imgur.com/XQIen6A.png");
     background-size: 62px 62px;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -1487,7 +1487,7 @@ a:link {
     border-radius: 10px;
 }
 .theme-dark.context-menu .item-subMenu {
-    background: rgba(8, 0, 53, 0) url(/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50%;
+    background: rgba(53, 0, 0, 0) url(/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50%;
 }
 .theme-dark.context-menu .context-menu {
     background: rgba(158, 73, 73, 0.9);
@@ -1499,13 +1499,13 @@ a:link {
     border-radius: 7px;
 }
 .header-toolbar button {
-    background-color: rgba(177, 177, 255, 0.73);
+    background-color: rgba(255, 177, 177, 0.73);
 }
 .header-toolbar .toolbar-badge {
     background-color: #ff8282;
 }
 .theme-dark .header-toolbar button.active {
-    background-color: rgba(177, 177, 255, 0.73);
+    background-color: rgba(255, 177, 177, 0.73);
     border-bottom: 2px solid #f9e5e5;
     border-radius: 7px;
 }
@@ -1568,11 +1568,11 @@ a:link {
 .bd-customcss-innerpane, 
 .voice-settings, 
 .radio-inner {
-    background: rgba(93, 86, 154, 0.6);
+    background: rgba(154, 86, 86, 0.6);
 }
 .settings .settings-inner,
 .scroller.settings-wrapper.settings-panel {
-    background: rgba(116, 105, 195, 0.58);
+    background: rgba(195, 105, 105, 0.6);
 }
 .Select-value {
     background: rgba(183, 99, 99, 0.84);
@@ -1582,15 +1582,15 @@ a:link {
     background: rgba(239, 133, 133, 0.65);
 }
 .settings-section.control-groups {
-    background-color: rgba(109, 97, 170, 0.7);
+    background-color: rgba(169, 96, 96, 0.7);
 }
 .notification-settings-modal-channel-settings-header {
-    background-color: rgb(79, 74, 138);
+    background-color: rgb(138, 73, 73);
 }
 .form-header, 
 .form-inner, 
 .form-actions {
-    background: rgba(126, 103, 218, 0.6) !important;
+    background: rgba(218, 103, 103, 0.6) !important;
 }
 .form .form-actions {
     border-top: 1px solid #ff9090;
@@ -1604,13 +1604,13 @@ a:link {
     border-color: #ff9090;
 }
 .now-playing {
-    background: rgba(185, 173, 255, 0.3);
+    background: rgba(255, 173, 173, 0.3);
     padding: 9px 0;
     width: 555px;
 }
 .now-playing.no-detection {
     padding: 9px 0;
-    background: rgba(185, 173, 255, 0.3);
+    background: rgba(255, 173, 173, 0.3);
     border: 1px solid #ff9090;
 }
 .now-playing-add .link {
@@ -1623,7 +1623,7 @@ a:link {
 }
 .tab-bar.SIDE {
     background: rgba(239, 133, 133, 0.6);
-    background-image: url(http://i.imgur.com/wYuWFX2.png) !important;
+    background-image: url("https://i.imgur.com/wYuWFX2.png") !important;
     background-size: 120%!important;
     background-repeat: no-repeat!important;
     background-position-y: 480px!important;
@@ -1634,7 +1634,7 @@ a:link {
 }
 .tab-bar.SIDE .tab-bar-item.selected, 
 .tab-bar.SIDE .tab-bar-item:hover {
-    background: rgba(239, 133, 133, 0.6);
+    background: rgba(255, 181, 181, 0.6);
 }
 .tab-bar.SIDE .tab-bar-item {
     color: #fff !important;
@@ -1643,7 +1643,7 @@ a:link {
 .form .control-group input[type=password], 
 .form .control-group input[type=text], 
 .form .control-group textarea {
-    background: rgba(185, 173, 255, 0.3);
+    background: rgba(255, 173, 173, 0.8);
     color: #FFFFFF;
     border-bottom: 1px solid #ff8282;
     border-radius: 3px;
@@ -1662,7 +1662,7 @@ a:link {
     box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
 }
 .user-settings-modal-connections .user-settings-modal-accounts-list .connect-container .btn {
-    background: rgba(173, 153, 255, 0.51);
+    background: rgba(255, 153, 153, 0.51);
     border: 2px solid #ff9090;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -1712,7 +1712,7 @@ a:link {
     color: #E2E2E3;
 }
 .user-settings-modal a:hover {
-    color: #ff8282;
+    color: #ffbaba;
 }
 .user-settings-modal .voice-settings .reset-voice-settings {
     color: #ff9090;
@@ -1726,7 +1726,7 @@ a:link {
     color: #F5FBF9;
 }
 .user-settings-modal a {
-    color: #ff9090;
+    color: #ffbaba;
 }
 .user-settings-modal .settings-wrapper,
 .user-settings-modal .voice-settings.element {
@@ -1745,7 +1745,7 @@ a:link {
     color: rgba(222, 222, 222, 0.59);
 }
 .user-settings-modal-keybinds .user-settings-modal-keybinds-header .btn-add-keybind, .account-warning {
-    background-color: rgba(185, 173, 255, 0.3) !important;
+    background-color: rgba(255, 173, 173, 0.3) !important;
     border: 1px solid #ff9090!important;
 }
 .user-settings-modal-keybinds .user-settings-modal-keybinds-header .btn-add-keybind:hover {
@@ -1812,7 +1812,7 @@ a:link {
     background: #ff8282;
 }
 .settings-connections-wrapper .authed-app {
-    background: rgba(155, 140, 236, 0.44);
+    background: rgba(236, 140, 140, 0.44);
     border: 1px solid #ff9090;
 }
 .settings-connections-wrapper .authed-app .details .header {
@@ -1820,10 +1820,10 @@ a:link {
 }
 .settings-connections-wrapper .authed-app .details .body,
 .settings-connections-wrapper .authed-app .details .permissions .body {
-    color: #cbceff;
+    color: #ffcbcb;
 }
 .settings-connections-wrapper .authed-app .header .app-name {
-    color: #dad7fd;
+    color: #fdd7d7;
 }
 
 /* Better Discord Settings */
@@ -1834,7 +1834,7 @@ a:link {
     right: 0;
     bottom: 0;
     padding-top: 58px;
-    background-color: rgb(128, 113, 171);
+    background-color: rgb(170, 112, 112);
 }
 #bd-ps-container {
     border: 1px solid transparent;
@@ -1877,10 +1877,10 @@ a:link {
 }
 .CodeMirror-gutters {
     background: #433B59;
-    box-shadow: inset 0 1px 0 0 #433B59;
+    box-shadow: inset 0 1px 0 0 #593a3a;
     border-right: 1px solid #ff9090!important;
     border-left: 1px solid #ff9090;
-    background-color: #433B59;
+    background-color: #593a3a;
 }
 .CodeMirror-scroll {
     border-top: 1px solid #ff9090!important;
@@ -1930,7 +1930,7 @@ a:link {
     border-left: 4px solid #ff9090;
 }
 .private-channels .search-bar {
-    background: rgba(10, 13, 16, 0) !important;
+    background: rgba(16, 10, 10, 0) !important;
 }
 .private-channels .search-bar input {
     background: rgba(0, 0, 0, 0.4) !important;
@@ -1942,11 +1942,11 @@ a:link {
 .private-channels .channel.selected, 
 .private-channels .search-result.selected, 
 .private-channels .search-result:hover {
-    background: -webkit-linear-gradient(left, rgba(239, 133, 133, 0.6) 85%, rgba(46, 49, 54, 0)) !important;
+    background: -webkit-linear-gradient(left, rgba(239, 133, 133, 0.6) 85%, rgba(54, 46, 46, 0)) !important;
 }
 .channel.channel-text:not(.selected):hover,
 .private-channels .channel:not(.selected):hover {
-    background: -webkit-linear-gradient(left, rgba(239, 133, 133, 0.6) 85%, rgba(46, 49, 54, 0)) !important;
+    background: -webkit-linear-gradient(left, rgba(239, 133, 133, 0.6) 85%, rgba(54, 46, 46, 0)) !important;
 }
 #friends .btn {
     background-color: #ff9090;
@@ -1969,16 +1969,16 @@ a:link {
 }
 .private-channels .channel.btn-friends {
     margin-bottom: 20px;
-    background: -webkit-linear-gradient(left, rgba(239, 133, 133, 0.6) 85%, rgba(46, 49, 54, 0)) !important;
+    background: -webkit-linear-gradient(left, rgba(239, 133, 133, 0.6) 85%, rgba(54, 46, 46, 0)) !important;
 }
 .guilds-wrapper .guilds .friends-online {
     font-size: 10px;
     color: hsla(0, 0%, 100%, 0.82);
     width: 51px;
-    background-color: #ff9090!important;
+    background-color: rgba(0, 0, 0, 0) !important;
 }
 .guilds .friends-online:hover {
-    background: #ff8282 !important;
+    background: rgba(0, 0, 0, 0) !important;
 }
 .guilds .friends-icon:hover {
     color: transparent;
@@ -2171,7 +2171,7 @@ search-bar-clear {
     color: white;
 }
 .form .control-group .help-text {
-    color: #B6BBC1;
+    color: #ffeded;
 }
 .instant-invites .instant-invites-list .instant-invite+.instant-invite {
     border-top: 1px solid #ff9090;
@@ -2242,10 +2242,10 @@ search-bar-clear {
 }
 .tab-bar.TOP .tab-bar-item.selected {
     border-bottom: 2px solid #ff9090;
-    color: #ff9090;
+    color: #ffe2e2;
 }
 .tab-bar.TOP .tab-bar-item {
-    color: #ff9090;
+    color: #ffbaba;
 }
 .tab-bar.TOP {
     border-bottom: 1px solid #ff9090;
@@ -2264,13 +2264,13 @@ search-bar-clear {
     border: 1px solid #ff9090;
 }
 .member-roles .member-role .member-role-remove {
-    background: url(http://i.imgur.com/aACperk.png) 50% no-repeat;
+    background: url("https://i.imgur.com/aACperk.png") 50% no-repeat;
     width: 8px;
     height: 12px;
     background-size: 8px;
 }
 .member-roles .member-role .member-role-add {
-    background: url(https://i.imgur.com/eDL5C9M.png) 50% no-repeat;
+    background: url("https://i.imgur.com/eDL5C9M.png") 50% no-repeat;
     width: 8px;
     height: 12px;
     background-size: 10px;
@@ -2476,7 +2476,7 @@ div.control-group .shortcut-recorder input[type=text] {
     
 }
 .form .btn-primary:hover {
-    background-color: #ff8282 !important;
+    background-color: #ff5959 !important;
 }
 .markdown-modal {
     background-color: rgba(0, 0, 0, 0.86);
@@ -2520,7 +2520,7 @@ div.control-group .shortcut-recorder input[type=text] {
     font-size: 11px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #ff8282;
+    color: #ffbaba;
     display: block;
 }
 .form .btn-default {
