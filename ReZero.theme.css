@@ -412,7 +412,7 @@ a:link {
     background-image: url(https://i.imgur.com/Crxj2nR.png);
 }
 .account .btn-deafen:after {
-    background-image: url(https://a.pomf.cat/fivzom.png);
+    background-image: url(http://i.imgur.com/MntkjQv.png);
     opacity: 0.8;
     background-size: 75%;
 }
@@ -421,13 +421,13 @@ a:link {
     opacity: 1;
 }
 .account .btn-deafen.disabled:after {
-    background-image: url(https://a.pomf.cat/iqojmb.png);
+    background-image: url(http://i.imgur.com/UJbM1rL.png);
 }
 .account .btn-deafen.disabled:hover:after {
-    background-image: url(https://a.pomf.cat/iqojmb.png);
+    background-image: url(http://i.imgur.com/UJbM1rL.png);
 }
 .account .btn-settings:after {
-    background-image: url(https://a.pomf.cat/acuxuj.png);
+    background-image: url(http://i.imgur.com/Jk9BHJH.png);
     opacity: .8;
     background-size: 80%;
 }
@@ -435,7 +435,7 @@ a:link {
     background-image: url(https://i.imgur.com/tmJnYHc.png);
 }
 .account .btn-mute:after {
-    background-image: url(https://a.pomf.cat/qihfkm.png);
+    background-image: url(http://i.imgur.com/2e90hNf.png);
     opacity: .8;
     background-size: 80%;
 }
@@ -443,7 +443,7 @@ a:link {
     background-image: url(https://i.imgur.com/k9gSksn.png);
 }
 .account .btn-mute.disabled:after {
-    background-image: url(https://a.pomf.cat/ilbkid.png);
+    background-image: url(http://i.imgur.com/DZia3yL.png);
 }
 .account .btn-mute.disabled:hover:after {
     background-image: url(https://i.imgur.com/iOsaRAQ.png);
@@ -452,12 +452,12 @@ a:link {
     border: 2px solid rgba(0, 0, 0, 1);
 }
 .guild-channels .channel-voice-states li .icon-muted {
-    background-image: url(https://a.pomf.cat/ilbkid.png);
+    background-image: url(http://i.imgur.com/DZia3yL.png);
     background-size: 120%;
     opacity: 0.7 !important;
 }
 .guild-channels .channel-voice-states li .icon-deafened {
-    background-image: url(https://a.pomf.cat/iqojmb.png);
+    background-image: url(http://i.imgur.com/UJbM1rL.png);
     background-size: 120%;
     opacity: 0.7 !important;
 }
